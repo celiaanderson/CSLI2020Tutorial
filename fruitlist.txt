@@ -6,7 +6,6 @@ pear
 marion berry
 cantaloupe
 rambutan
-strawberry
 cucumber
 apple
 damson
@@ -85,3 +84,4 @@ kumquat
 currant
 fig
 watermelon
+strawberry
